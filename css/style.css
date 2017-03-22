@@ -68,7 +68,6 @@ body {
     display: inline-block;
     float: left;
     margin: 0 auto;
-    height: 500px;
 }
 
 h1 {
@@ -93,7 +92,6 @@ h1 {
     float: left;
     margin: 10px;
     padding: 10px;
-    height: 470px;
 }
 
 .card {
@@ -104,5 +102,8 @@ h1 {
     margin: 10px auto;
 }
 
+ul {
+    height: 470px;
+}
 
 
